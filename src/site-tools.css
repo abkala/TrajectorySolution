@@ -1,0 +1,33 @@
+.site-search-toggle { display: grid; place-items: center; flex-shrink: 0; padding: 0; width: 44px; height: 44px; border: 0; background: transparent; color: #3c4053; }
+.site-search-toggle:hover { color: #7d64b0; background: #f3f0f9; border-radius: 50%; }
+.footer-sitemap { display: grid; grid-template-columns: 1fr 1.2fr 1.2fr 1.2fr; gap: 35px; padding: 35px 0 45px; border-top: 1px solid #e6e6ec; }
+.footer-sitemap h2 { font-size: 14px; font-weight: 600; letter-spacing: 0; margin: 0 0 23px; }
+.footer-sitemap ul { list-style: none; padding: 0; margin: 0; }
+.footer-sitemap li { margin: 0 0 16px; }
+.footer-sitemap a { font-size: 12px; color: #6e6e7e; }
+.footer-sitemap a:hover { color: #72599c; text-decoration: underline; }
+.footer-sitemap p { font-size: 12px; color: #6e6e7e; margin-bottom: 20px; }
+.footer-sitemap .footer-disclaimer { font-size: 10px; margin-top: 20px; }
+.search-dialog { max-width: 720px; }
+.site-search-label { display: block; font-size: 12px; margin: 28px 0 10px; }
+#site-search-input { width: 100%; padding: 15px; color: var(--navy); background: #faf9fc; border: 1px solid #c9c5d8; border-radius: 3px; }
+.site-search-status { font-size: 12px; color: #726b82; margin: 16px 0; }
+.site-search-results { list-style: none; margin: 0; padding: 0; }
+.site-search-results a { display: block; padding: 16px 5px; border-bottom: 1px solid #e8e4ed; }
+.site-search-results a:hover { background: #f7f4fc; }
+.site-search-results strong { display: block; font-size: 15px; font-weight: 600; }
+.site-search-results span { display: block; margin-top: 8px; font-size: 12px; line-height: 1.6; color: #6c6b78; }
+.search-local-note { font-size: 10px!important; margin: 20px 0 0; }
+
+@media (max-width: 900px) {
+  .footer-sitemap { grid-template-columns: 1fr 1fr; gap: 25px; }
+}
+@media (max-width: 500px) {
+  .site-header { gap: 6px; }
+  .site-header .brand { font-size: 23px; }
+  .site-header .brand svg { width: 29px; }
+  .site-header .menu-toggle, .site-search-toggle { width: 40px; }
+  .footer-sitemap { grid-template-columns: 1fr; }
+  .search-dialog { padding: 38px 22px 25px; }
+  .search-dialog h2 { font-size: 28px; }
+}

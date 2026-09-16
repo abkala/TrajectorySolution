@@ -1,0 +1,828 @@
+{
+  "abbyy": {
+    "src": "/partner-logos/abbyy.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Abbyy/ABBYY-193w-x-80h.png/jcr:content.png",
+    "contentType": "image/jpeg",
+    "bytes": 2459,
+    "sha256": "2adbdd4b75ca2d5d3d7db8c34813c98fd73c362ce3e64faf3a338c95918c0557"
+  },
+  "acronis": {
+    "src": "/partner-logos/acronis.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Acronis/acronis-193w-x-80h.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 3086,
+    "sha256": "be78b09f9e61d5283469622a01e4f8a4717a8d8a3f59d9340dcbfdc868407f83"
+  },
+  "adaption": {
+    "src": "/partner-logos/adaption.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Adaption/Adaption-logo.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 15852,
+    "sha256": "67a4bf675dad1414e95025e0b5f8ab31d9979af896ef85c8774b988b0e867835"
+  },
+  "adobe": {
+    "src": "/partner-logos/adobe.svg",
+    "source": "https://www.ncs.co/dam/jcr:428fead8-269d-4f06-a7b0-37d4f18d761c/adobe_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 2243,
+    "sha256": "af6c0ffbfe419ced3b07eea191b180b9e35406ba539564311649ec514ba52ff8"
+  },
+  "agibot": {
+    "src": "/partner-logos/agibot.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Agibot/Agibot-240x49.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 8878,
+    "sha256": "04c68048d7733a7c94a579f1bcf600a15c43c55b85c56fa68021216f3df4ab39"
+  },
+  "akamai": {
+    "src": "/partner-logos/akamai.svg",
+    "source": "https://www.ncs.co/dam/jcr:bbbe97d9-ebcd-47aa-8a1f-6d6dc3458aa1/akamai_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 3460,
+    "sha256": "2977a5d7910b11c088504725b29990f99da469fea8aecc55a8a35fe52c9c67b2"
+  },
+  "alcatel-lucent-enterprise": {
+    "src": "/partner-logos/alcatel-lucent-enterprise.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Alcatel-Lucent-Enterprise/alcatel-193w-x-80h0.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 3293,
+    "sha256": "29e97dd07436824052d21e9c5e1ec38c223a26d115c96f44c3141f4db6d12f07"
+  },
+  "alibaba-cloud": {
+    "src": "/partner-logos/alibaba-cloud.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Alibaba-Cloud/Alibaba-Cloud-120x15.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 5068,
+    "sha256": "cb0980d198fef3150b2c8dd03c520f3b8864b252967767e79a8da1ed0556bb23"
+  },
+  "alteryx": {
+    "src": "/partner-logos/alteryx.svg",
+    "source": "https://www.ncs.co/dam/jcr:54e9916b-5701-4e77-a2e4-b0561cf89aaf/alteryx-193w-x-80h.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 4453,
+    "sha256": "7c467ad5d92497a1f8f6583dcf29ef0e0b0c2e68eb7a2c1679467885aa9040ac"
+  },
+  "amazon-web-services": {
+    "src": "/partner-logos/amazon-web-services.svg",
+    "source": "https://www.ncs.co/dam/jcr:48aae11a-68a3-4c72-8d25-26cc657a5ccd/aws_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 3431,
+    "sha256": "aea1f86293e1be07bdd58769b02f84f8ee97318926fb0e7dda0f638b55765cef"
+  },
+  "apple": {
+    "src": "/partner-logos/apple.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Apple/apple-82w-x-80h.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 986,
+    "sha256": "570bc63898eced61f84a79e049781934c355301fdc446fbb2d48a2c2fab74312"
+  },
+  "arista-networks": {
+    "src": "/partner-logos/arista-networks.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Arista-Networks/arista-193w-x-80h.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 2210,
+    "sha256": "e8e2acdb75ef57ff095506900bf3f52e26c700fd7249f4a572deaf6b467b0ac4"
+  },
+  "automation-anywhere": {
+    "src": "/partner-logos/automation-anywhere.svg",
+    "source": "https://www.ncs.co/dam/jcr:016e9d2d-4e76-4471-b7df-fa5267b9fe13/automation_anywhere_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 11105,
+    "sha256": "c93a0ea303b2e66ba447b45fa32acda681a188cb401edadcbb0db6a924af258c"
+  },
+  "axway": {
+    "src": "/partner-logos/axway.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Axway/axway-193w-x-80h.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 2515,
+    "sha256": "da40ae8db2705fe275c32881d19eb5259f1ce920f1ae3db9a38cfed444bd346c"
+  },
+  "beyondtrust": {
+    "src": "/partner-logos/beyondtrust.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/BeyondTrust/BeyondTrust.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 7211,
+    "sha256": "eb395ee40c0c045635508a7065273428c54227c5969a84888f7580fb7f43b84f"
+  },
+  "bitsight": {
+    "src": "/partner-logos/bitsight.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/BitSight/Bigsight-latest-resized-image.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 3850,
+    "sha256": "2ec1651ffd241494b79c2792e7d77ba64ce518e944377c370ec8a6a9f6b3ce50"
+  },
+  "blue-prism": {
+    "src": "/partner-logos/blue-prism.svg",
+    "source": "https://www.ncs.co/dam/jcr:a8636805-7ca9-478a-b275-81c9a214e8f6/blueprism-193w-x-80h.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 4471,
+    "sha256": "8094af9672c94b32fccb4a1924a4a3801e1e637c408842f628a91381215b71ba"
+  },
+  "bluevoyant": {
+    "src": "/partner-logos/bluevoyant.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Bluevoyant/bitsight-193w-x-80h.png/jcr:content.png",
+    "contentType": "image/jpeg",
+    "bytes": 15659,
+    "sha256": "9bfc9a76c63693614a4789dc7b02cf17cdbdf32615423c11a8b9a185d37cc5c9"
+  },
+  "bmc": {
+    "src": "/partner-logos/bmc.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/BMC/bmc-193w-x-80h.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 3966,
+    "sha256": "e7202122d6cb27ba9d60a9a984b4163298cd1f89baa32ec34eaf1ddc183ee32c"
+  },
+  "broadcom": {
+    "src": "/partner-logos/broadcom.svg",
+    "source": "https://www.ncs.co/dam/jcr:5397fca9-6c73-467d-9284-d9001a71df9a/broadcom_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 4421,
+    "sha256": "80f860d543b7f7612a3133b0b5e2376ef61da821f1d333a3d673b1632c43c2b4"
+  },
+  "c3-ai": {
+    "src": "/partner-logos/c3-ai.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/C3.ai/c3-ai-193w-x-80h.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 2339,
+    "sha256": "b9ded167bb29e39ea6c114f0db5a614f54cd0ecbb92de2af36c8a74fbf35631f"
+  },
+  "cato-networks": {
+    "src": "/partner-logos/cato-networks.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Cato/cato-logo-2x.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 64294,
+    "sha256": "54c94335b0239adec15ae65f5e539e58803a3c386f657051dd2c2888119d8e14"
+  },
+  "check-point": {
+    "src": "/partner-logos/check-point.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Checkpoint/Check-point-193w-x-80h.png/jcr:content.png",
+    "contentType": "image/jpeg",
+    "bytes": 2520,
+    "sha256": "a629dda651297ac6ae1ca6fe11e143e37f6707148958473ef17c1199f40d6064"
+  },
+  "chef": {
+    "src": "/partner-logos/chef.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Chef/Chef-logo-2.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 13302,
+    "sha256": "be7a2ebf5082ebbc2129a98bf74ed8dc6d90d5e9edf02cdb63955ec9981199ce"
+  },
+  "ciena": {
+    "src": "/partner-logos/ciena.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Ciena/ciena-193w-x-80h.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 5021,
+    "sha256": "c9083e010ea39312f2a95326a445019b1acc962d14ea8838b7486f6a39d42cb9"
+  },
+  "cisco": {
+    "src": "/partner-logos/cisco.svg",
+    "source": "https://www.ncs.co/dam/jcr:b07e9ecb-4780-4ff0-b5c5-8a31a44825f6/cisco_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 4395,
+    "sha256": "695277bac0c7c475fcacd0cb0cd773b8ea85103f88506ede1a1e89a4327af156"
+  },
+  "citrix": {
+    "src": "/partner-logos/citrix.svg",
+    "source": "https://www.ncs.co/dam/jcr:75728e57-6eea-4bbd-b8bb-f2ff38104eb3/citrix_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 2212,
+    "sha256": "f9cb565cba9875d4cec6d1a61ad80df5c213afaf87d1c6cf78e340b85e5b3847"
+  },
+  "cloudera": {
+    "src": "/partner-logos/cloudera.svg",
+    "source": "https://www.ncs.co/dam/jcr:d2e468ed-3e83-417b-9f20-8bc86b46b995/cloudera_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 4302,
+    "sha256": "9d314445a41f85ca4b8d37ce652d8bdb8607778bc207d784f1bdb706043d22ad"
+  },
+  "cohesity": {
+    "src": "/partner-logos/cohesity.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Cohesity/cohesity-193w-x-80h.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 8554,
+    "sha256": "191f22c467d1a7b1b6b2a949998e1891a449b990f65e4445483dc7948456a1ee"
+  },
+  "confluent": {
+    "src": "/partner-logos/confluent.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Confluent/Confluent.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 122809,
+    "sha256": "0ea1212df089f9c3969b4fbd68eff6e56a9c67e09abc3d54a398cc69f9c42d8e"
+  },
+  "controp": {
+    "src": "/partner-logos/controp.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Controp/controp-193w-x-80h/jcr:content.png",
+    "contentType": "image/jpeg",
+    "bytes": 2800,
+    "sha256": "c462181f2c519a20cb85c273cc768c24759158ce8fe74c7d4cfca607307ff12e"
+  },
+  "cyberark": {
+    "src": "/partner-logos/cyberark.svg",
+    "source": "https://www.ncs.co/dam/jcr:1b0b320e-3d62-4795-91c7-708b504dd099/cyberark_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 4514,
+    "sha256": "a9120cd94d7d0907f8cb560cbbfda1fb47d4638c5d55f792ac995a424b346237"
+  },
+  "databricks": {
+    "src": "/partner-logos/databricks.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Australia/partners-app/Images/Logo/Databricks/img_Databricks-logo_193x80_Component.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 4933,
+    "sha256": "1a9386394be7c5e002a3c27927e788ec4f6c85bc85848dbe9c48d97a60f0e736"
+  },
+  "datarobot": {
+    "src": "/partner-logos/datarobot.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Datarobot/datarobot-193w-x-80h.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 5151,
+    "sha256": "e43fbb2e2fe9a0ddd36bb5232156cf5a2d7e25ff93c8708e68baab488a8663df"
+  },
+  "dell-technologies": {
+    "src": "/partner-logos/dell-technologies.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Dell/Dell-310x40.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 17996,
+    "sha256": "3aecb9a5e24e7a9a4adfe99f9a71f1fb1f0ab78cd765de959c7835b6c5b6d172"
+  },
+  "denodo": {
+    "src": "/partner-logos/denodo.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Denodo/denodo-193w-x-80h.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 5305,
+    "sha256": "27398944b031fa7247b6ec2ca6e68d0d324e5a7de32970d40ab5ef2bc1a4e776"
+  },
+  "digital-asset": {
+    "src": "/partner-logos/digital-asset.svg",
+    "source": "https://www.ncs.co/dam/jcr:0fc7306a-a2c8-4d20-a844-c977a1aac142/digitalassets-193w-x-80h.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 6616,
+    "sha256": "899820e569246f910d9c5194617eabd4dde8755822f47a3e86442d4b664d062d"
+  },
+  "dynatrace": {
+    "src": "/partner-logos/dynatrace.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Dynatrace/dynatrace-193w-x-80h.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 1954,
+    "sha256": "1f5ee50f3dcb5f939e99b6c2d202e3beb415b918f8e498cc34075d074aa942d6"
+  },
+  "eg-innovations": {
+    "src": "/partner-logos/eg-innovations.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/eG-Innovations/logo.webp/jcr:content.webp",
+    "contentType": "image/png",
+    "bytes": 166081,
+    "sha256": "2791862c94b4058bc2d8d378483e605f4f97a63ca78027e5277c3c1325724d2d"
+  },
+  "elastic": {
+    "src": "/partner-logos/elastic.svg",
+    "source": "https://www.ncs.co/dam/jcr:fa812ed2-5901-400f-aed1-a609bfe31623/elastic_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 3926,
+    "sha256": "e13715c2415ac0c947b50bb058bcfe874e777a2b2d6b01b9c4f5ead6a3908fad"
+  },
+  "equinix": {
+    "src": "/partner-logos/equinix.svg",
+    "source": "https://www.ncs.co/dam/jcr:df010cf4-c005-4732-9a56-700e45290183/Equinix_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 2404,
+    "sha256": "ab6f3c2df7f686e4a94f6874c2368f451efa428b48b532a575d6f4388ef4e180"
+  },
+  "everpure": {
+    "src": "/partner-logos/everpure.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Everpure/everpurepng.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 11474,
+    "sha256": "fd4cb1f312cda7c895305d135ce1f14df85a473ceba1812323ef859a6e9a4cdb"
+  },
+  "evie": {
+    "src": "/partner-logos/evie.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Evie/evie-83w-x-77h.svg/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 5258,
+    "sha256": "c31c97fd2894af9efc224fac1d8d5c62d9f03a4e32854fb8b6e9d8af51bce8a0"
+  },
+  "f5-networks": {
+    "src": "/partner-logos/f5-networks.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/F5/f5-logo-rgb-2.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 20685,
+    "sha256": "d6ce12dc5fe9f8944979baa37206778430376a6c9513a2f4ac159fb12c934a63"
+  },
+  "falaina": {
+    "src": "/partner-logos/falaina.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Falaina/falaina_w193px_h80px.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 4170,
+    "sha256": "35f3ff4fd24568f57afbba60bb0f3deff8b676bb5083d6737e3ba323969d9a53"
+  },
+  "forcepoint": {
+    "src": "/partner-logos/forcepoint.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Forcepoint/Forcepoint-Logo-2C-RGB-for-screen.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 141159,
+    "sha256": "7900be08e11db0f103eb0d0eca545c987ce76cd790400abed9207fb3b3b04b3b"
+  },
+  "fortinet": {
+    "src": "/partner-logos/fortinet.svg",
+    "source": "https://www.ncs.co/dam/jcr:73d9bdf6-7e72-4282-aabb-6b46b3f99ed8/fortinet_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 2411,
+    "sha256": "314f643ecf344832b57fb04c971b2149f240a95b29e550022b0cd4f693b396a4"
+  },
+  "gitlab": {
+    "src": "/partner-logos/gitlab.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Gitlab/gitlab-193w-x-80h.svg/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 6498,
+    "sha256": "d5b689d33748d16f0c97da9e7cdfa30ec23cd497ae7a787f97be72fe1bb32a01"
+  },
+  "google-cloud": {
+    "src": "/partner-logos/google-cloud.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Google-Cloud/Google-Cloud-2.png/jcr:content.png",
+    "contentType": "image/jpeg",
+    "bytes": 2334,
+    "sha256": "576299c63cdec08098b174effc2fe40052f6fa350603af98fa03c71d5871b4a4"
+  },
+  "h2o-ai": {
+    "src": "/partner-logos/h2o-ai.svg",
+    "source": "https://www.ncs.co/dam/jcr:7f66becf-b5e9-43c3-b93b-99c29d8510ea/h2o-ai-193w-x-80h.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 1812,
+    "sha256": "1b3672af57fa5b2c149d73a61047bc324a7c555a133ac9d8be94483a4c7e54da"
+  },
+  "hashicorp": {
+    "src": "/partner-logos/hashicorp.svg",
+    "source": "https://www.ncs.co/dam/jcr:a0b4fa32-49b3-4627-935b-c3a779019a9e/HashiCorp_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 2718,
+    "sha256": "1117c5a45c29b45561900814cd561ccffa849aab7e92c973ad16bb5b2ebd4cec"
+  },
+  "hcl-software": {
+    "src": "/partner-logos/hcl-software.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/HCL-Software/HCLSoftware-Logo-RGB-Black-300dpi.jpg/jcr:content.png",
+    "contentType": "image/jpeg",
+    "bytes": 1823,
+    "sha256": "e74b64442d0fd6e277a6836c64113c71a45d7405d80221d5a1e80f18bb4ec22c"
+  },
+  "hewlett-packard-enterprise": {
+    "src": "/partner-logos/hewlett-packard-enterprise.svg",
+    "source": "https://www.ncs.co/dam/jcr:735f9614-f813-4728-a19a-1b8de4621189/hp_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 7026,
+    "sha256": "e959bab39755a687317b8d706fa7a7cb0582b2077a936b379f53abc5ef695475"
+  },
+  "hitachi-vantara": {
+    "src": "/partner-logos/hitachi-vantara.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Hitachi/Hitachi-Vantara-logo-1.png/jcr:content.png",
+    "contentType": "image/jpeg",
+    "bytes": 2173,
+    "sha256": "bd2a9b9fd960aac884581588c06715e61893dd6282a5f5f16946872da8b953b6"
+  },
+  "hp-inc": {
+    "src": "/partner-logos/hp-inc.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/HP-Inc/hp-98w-x-80h.jpg/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 9209,
+    "sha256": "2b1aca28a9f0cc954524a0e61d4af902bd430f47f066b9471993c642549b9609"
+  },
+  "huawei": {
+    "src": "/partner-logos/huawei.svg",
+    "source": "https://www.ncs.co/dam/jcr:438b31ff-4476-4458-b3b0-768c9e77d8da/huawei_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 2771,
+    "sha256": "8cf0944cf87783bb507872cc6eb15297cd8812085c0c94f13d51af5427126801"
+  },
+  "ibm": {
+    "src": "/partner-logos/ibm.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/IBM/IBM_Partner_Plus_platinum_partner_mark_pos_black_RGB.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 3361,
+    "sha256": "ee4454f4bb831baedf537b5892b36fdd930f33216793800b1066f52e7fe31f97"
+  },
+  "iconics": {
+    "src": "/partner-logos/iconics.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Iconics/iconics-143w-x-80h.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 3071,
+    "sha256": "25d4af59012943760a66d60b5b0f56f590d6171617737f307fe7cc69e5c113b0"
+  },
+  "imperva": {
+    "src": "/partner-logos/imperva.svg",
+    "source": "https://www.ncs.co/dam/jcr:f4710d29-19b0-483f-9857-5f7334c9d1bc/imperva_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 2066,
+    "sha256": "f704af11a2f7b066a09a238ce83d2f0f352b207aa0a534cfa73804f1db56b052"
+  },
+  "infoblox": {
+    "src": "/partner-logos/infoblox.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Infoblox/infoblox-logo-2026.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 7367,
+    "sha256": "f4354357f3c36e83377fabd103c9112240b7a39ee1c921bfd326d8711da0c8b5"
+  },
+  "informatica": {
+    "src": "/partner-logos/informatica.svg",
+    "source": "https://www.ncs.co/dam/jcr:e89530db-3431-42cc-b67b-286790d82891/informatica_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 3467,
+    "sha256": "cc1d96235bb330392f2abce8701083baf32c79f06f4f2ac8488f9172d6c35e8e"
+  },
+  "intel": {
+    "src": "/partner-logos/intel.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Intel/logo-classicblue-3000px.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 149682,
+    "sha256": "8982fc6e032c460b81ad9800490579cc7a28d6e9c21afe6ddf2728489e1d7bed"
+  },
+  "i-sprint-innovations": {
+    "src": "/partner-logos/i-sprint-innovations.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/I-Sprint/i-sprint-193w-x-80h.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 3882,
+    "sha256": "a265304b32388e0d8a52a407356e60918c1622a98bf06cd8cc2f853075cec5c9"
+  },
+  "ivalua": {
+    "src": "/partner-logos/ivalua.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Ivalua/logo-ivalua-80h.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 11467,
+    "sha256": "6f9c64a486487715424117958ae812649ec2a27a1db3dc75e76118fde18be18b"
+  },
+  "jotron": {
+    "src": "/partner-logos/jotron.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Jotron/jotron-logo.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 94679,
+    "sha256": "d14258610a536e5127032a35b54f92dbbf8a00782736c03030e3df6cd1c93c26"
+  },
+  "juniper-networks": {
+    "src": "/partner-logos/juniper-networks.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Juniper-Networks/juniper-networks-193w-x-80h.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 2615,
+    "sha256": "1ba22cd67b6095d891ea70694a158de26b000647e4340ad0774ed25a5b6d5c62"
+  },
+  "laiye": {
+    "src": "/partner-logos/laiye.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Laiye/Laiye-Logo.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 9446,
+    "sha256": "4677019cd9ce21b6dd41459d867b97488508c9a151d588f8108d20716e0d0fb8"
+  },
+  "lenovo": {
+    "src": "/partner-logos/lenovo.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Lenovo/lenovo-193w-x-80h.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 4234,
+    "sha256": "008fdef5fa6ccd433002ceca86349e2ad587c7bf063796eb57c0507f537dfb36"
+  },
+  "lianxin-tech": {
+    "src": "/partner-logos/lianxin-tech.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Lianxian/Lianxian-120x32.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 3035,
+    "sha256": "2d9ef75c7a8e7c1139a4b77305e2b133021e6319043b00e6712d105a846866c9"
+  },
+  "magnolia": {
+    "src": "/partner-logos/magnolia.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/India/partners-app/Images/Logo/Magnolia/Magnolia-Logo_500x100_Dark.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 3923,
+    "sha256": "45e22986b796e74a87082ce9cebcc824687ce5f1b01b7a2b3e27723fd6873df6"
+  },
+  "mega-international": {
+    "src": "/partner-logos/mega-international.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Mega/mega-89w-x-80h.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 1784,
+    "sha256": "f727c4a3a1c8befe714c21410600a924dfb698fa0c129749d69ef513d3e2ad95"
+  },
+  "menlo-security": {
+    "src": "/partner-logos/menlo-security.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Menlo/Menlo-193w-x-80h.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 6522,
+    "sha256": "5256df3de2ed0275c7be4d79598580a3bb3835e2b3b31e782a1971213493e5bf"
+  },
+  "microsoft": {
+    "src": "/partner-logos/microsoft.svg",
+    "source": "https://www.ncs.co/dam/jcr:25df2bf5-ef42-45a2-892f-6ad476ccccc4/microsoft_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 3676,
+    "sha256": "102f1934e47fb69330b513aacf3fbe49046fc5f1397b0568859033383da0bc5c"
+  },
+  "microstrategy": {
+    "src": "/partner-logos/microstrategy.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/MicroStrategy/microstrategy-193w-x-80h.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 2715,
+    "sha256": "27b7fccda0dd5f0ac826bb011d10d58398adcf80b1af31f4ade107219b68f00e"
+  },
+  "mistral-ai": {
+    "src": "/partner-logos/mistral-ai.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Mistral-AI/Mistral-120x15.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 3386,
+    "sha256": "73afec21b648b1fa7d78584e4cbb78b90b7534bb4dd51ca312ad036fb24d2628"
+  },
+  "mulesoft": {
+    "src": "/partner-logos/mulesoft.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Mulesoft/MuleSoft-Logo-1.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 30808,
+    "sha256": "2146da7c7a139fa2c617fa10e302fe59251e8d87f1ee60657715a0cde178c0b4"
+  },
+  "netapp": {
+    "src": "/partner-logos/netapp.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/NetApp/netapp-193w-x-80h.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 1993,
+    "sha256": "b0ca996f2209b0243e25c1ce4cbbdac680a58726f0a8cfaa674faa3a56e343be"
+  },
+  "newgen": {
+    "src": "/partner-logos/newgen.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Newgen/newgen-131w-x-80h.svg/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 10335,
+    "sha256": "59cc666b0a07c26d1628fddd196403bb5f53580dc9cc313149a465e36a9593b6"
+  },
+  "nexthink": {
+    "src": "/partner-logos/nexthink.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Nexthink/nexthink-193w-x-80h.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 2217,
+    "sha256": "e127e684efb8abbe01d260dfe1c0680d0c9014fcf496c4d2e6a3c3785e736846"
+  },
+  "nokia-solutions-and-networks-singapore": {
+    "src": "/partner-logos/nokia-solutions-and-networks-singapore.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Nokia/nokia-193w-x-80h.jpg/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 5550,
+    "sha256": "af088dffc7ce0620c3656632d78000d15a4c045f564ddcf11d7a1d209cffc08d"
+  },
+  "nutanix": {
+    "src": "/partner-logos/nutanix.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Nutanix/nutanix-193w-x-80h.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 3129,
+    "sha256": "c52d5186f8035700b11726a770e100e7b3c48a21f2512d7d6cc5d97469d6bcc8"
+  },
+  "nvidia": {
+    "src": "/partner-logos/nvidia.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/NVIDIA/nvidia-logo.png/jcr:content.png",
+    "contentType": "image/jpeg",
+    "bytes": 2544,
+    "sha256": "669b2e00da89c7dd478c88ac8ce5d375b3f0506e077726ba6deae108ed58dff8"
+  },
+  "omnissa": {
+    "src": "/partner-logos/omnissa.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Omnissa/Omnissa_tm_wordmark_BLK-RGB.jpg/jcr:content.png",
+    "contentType": "image/jpeg",
+    "bytes": 1592,
+    "sha256": "b916a6d4d33bed5aa700199c8b25bd82b89800dd228956727f5bc7f67aaa5a3f"
+  },
+  "oracle": {
+    "src": "/partner-logos/oracle.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Oracle/oracle-193w-x-80h.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 2239,
+    "sha256": "6af3440c83505031feac57d57b8b4de5fc6546a035d5bfef3dccc2b806fa7ad3"
+  },
+  "outsystems": {
+    "src": "/partner-logos/outsystems.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Out-Systems/outsystems-193w-x-80h.jpg/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 4978,
+    "sha256": "2a9d5b74363321e5b1046f88fd2aadc1ccd3a94fe329f0fb7ce006a1d17a8148"
+  },
+  "palo-alto-networks": {
+    "src": "/partner-logos/palo-alto-networks.svg",
+    "source": "https://www.ncs.co/dam/jcr:c453fe0f-357f-430c-92a3-00b7aaaa94f2/palo_alto_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 4938,
+    "sha256": "ff9b3190e49e61baf1c4ce7519aef0f3b20ef7c46ce00c36d6d3c67d36826297"
+  },
+  "pegasystems": {
+    "src": "/partner-logos/pegasystems.svg",
+    "source": "https://www.ncs.co/dam/jcr:895ef7d7-240a-40ad-9463-dd235789c959/pega_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 2215,
+    "sha256": "86b85e833cb1cadde7d3d06811438faedd3a7c2820545995378cc7e484918c5a"
+  },
+  "ping-identity": {
+    "src": "/partner-logos/ping-identity.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Ping-Identity/PIC-Square-Logo-Primary.png/jcr:content.png",
+    "contentType": "image/jpeg",
+    "bytes": 9189,
+    "sha256": "80d7e615b4ab70ca1f83fdf461c5a02756c44e09c71a949f7b910165ae6210d4"
+  },
+  "qlik": {
+    "src": "/partner-logos/qlik.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Qlik/qlik-logo-2025.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 4837,
+    "sha256": "aa41081952ca88c3ac08ae5e152809127c7a67c8e2376a92fd2e5d68316d5a7d"
+  },
+  "red-hat": {
+    "src": "/partner-logos/red-hat.svg",
+    "source": "https://www.ncs.co/dam/jcr:8cb77f98-d06b-4fa6-88a8-ac76ccca84ed/redhat_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 2524,
+    "sha256": "65019ba6fd154fe396ae0a474514507633a7eaefcc14f7794d511587d49f8938"
+  },
+  "riverbed": {
+    "src": "/partner-logos/riverbed.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/riverbed/riverbed_resize.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 10584,
+    "sha256": "15023899e04dfd54913d7408f11c6f9dac0485081204540847276d09e2128e96"
+  },
+  "rubrik": {
+    "src": "/partner-logos/rubrik.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Rubrik/Rubrik.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 17284,
+    "sha256": "17534e35871fcc0f14426f46b2435248d9204aef8c59c87934dbcf1593f07789"
+  },
+  "salesforce": {
+    "src": "/partner-logos/salesforce.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Salesforce/salesforce-118w-x-79h.svg/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 8476,
+    "sha256": "640e26ebaac007b3ec7fd043bdd10f8fcc2b674780ccd356956f944cf9b6933c"
+  },
+  "sap": {
+    "src": "/partner-logos/sap.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/SAP/sap-193w-x-80h.svg/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 11290,
+    "sha256": "2fe199ca8715b6d271dde7e7ce6c6b24317ecbdbdd833beeae4e951cafb3e57a"
+  },
+  "sas": {
+    "src": "/partner-logos/sas.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/SAS/sas_logo.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 3316,
+    "sha256": "e5414ff186f5568b43f5b9e0b419c7c62059669680b6f4194054897dd2d8e766"
+  },
+  "schneider-electric": {
+    "src": "/partner-logos/schneider-electric.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Schneider-Electric/apc-by-schneider-electric-193w-x-80h.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 2632,
+    "sha256": "a7e558ede9009695803d299670227adf231bc521104882900ea2bb875b6c24db"
+  },
+  "servicenow": {
+    "src": "/partner-logos/servicenow.svg",
+    "source": "https://www.ncs.co/dam/jcr:fec9ea2e-aa2d-4718-8dc9-948e244b3874/servicenow_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 2758,
+    "sha256": "5e46b720455643173f9ff125ab9681d283a736e43cb68ff2bb5dd029fa5e9b6c"
+  },
+  "snowflake": {
+    "src": "/partner-logos/snowflake.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Snowflake/Laiye-Logo.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 38485,
+    "sha256": "d0b1d2ac1b52c452a546901f998c54d332e60bd7035626cfc9635ee650e8e52b"
+  },
+  "snow-software": {
+    "src": "/partner-logos/snow-software.svg",
+    "source": "https://www.ncs.co/dam/jcr:a8f0ba22-25ed-4f8a-b139-2747bab19c59/snow_software_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 1848,
+    "sha256": "a8760c207554427a326b4b926049e6d167d3c4f387c8563379144242e24fa792"
+  },
+  "solace": {
+    "src": "/partner-logos/solace.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Solace/solace-193w-x-80h.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 11099,
+    "sha256": "53a90ceb857424129338deb2ac721e8e21ed7e33f017cd3900d6f597d5ab827d"
+  },
+  "solarwinds": {
+    "src": "/partner-logos/solarwinds.svg",
+    "source": "https://www.ncs.co/dam/jcr:462827b8-1766-4156-adcd-a1cc8a3922eb/solarwinds_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 3800,
+    "sha256": "a7f8925740601d00b405901661b23cce6f1afff132c8aac53eecca5aadb007ba"
+  },
+  "splunk": {
+    "src": "/partner-logos/splunk.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Splunk/Splunk-logo-1.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 5445,
+    "sha256": "57254c7598a7fc9c17fda06dd8e2b9eef449673ace29c8af2f26e00e3899e5dc"
+  },
+  "tableau": {
+    "src": "/partner-logos/tableau.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Tableau/tableau-logo-1.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 23370,
+    "sha256": "a3ebf3ad7555295b9055a43253cdf94bc6045d9209fec03df35ff347f5cfd55a"
+  },
+  "talend": {
+    "src": "/partner-logos/talend.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Talend/talend-91w-x-80h.svg/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 6569,
+    "sha256": "85f3aeae425e739dba967052d4a838d5c645cbc692a4a44a656de7e113491d27"
+  },
+  "tenable": {
+    "src": "/partner-logos/tenable.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Tenable/tenable-193w-x-80h.png/jcr:content.png",
+    "contentType": "image/jpeg",
+    "bytes": 2555,
+    "sha256": "a854122bb14e6f7360c8c707ef21b137e9d9e93316a8902733ca04bd5ae932a4"
+  },
+  "tibco-software": {
+    "src": "/partner-logos/tibco-software.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Tibco/tibco-193w-x-80h.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 3391,
+    "sha256": "c6e35316d658e1332e7e1c707cc6321ff29f4e23d8879dc076e9c88d52b4ebaa"
+  },
+  "tigergraph": {
+    "src": "/partner-logos/tigergraph.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Tigergraph/tigergraph-logo-193wx80h.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 7034,
+    "sha256": "bf23ac9b80f56eadeaa6ed02ea2068c823f7b0c91c2f877cc217f40968f55e2c"
+  },
+  "trellix": {
+    "src": "/partner-logos/trellix.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Trellix/Trellix-193w-x-50h.png/jcr:content.png",
+    "contentType": "image/jpeg",
+    "bytes": 1614,
+    "sha256": "d8472a0daa85753fb82b3c397b0812ce6d297dff388da160fd29c25501e3d973"
+  },
+  "trend-micro": {
+    "src": "/partner-logos/trend-micro.svg",
+    "source": "https://www.ncs.co/dam/jcr:8de45918-df47-4279-a2c2-ef7356f4dbd6/trend_micro_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 5191,
+    "sha256": "c577d489135b7d613e0f54d204a48971a514abefd4342444f97a3f8bc4e41e7a"
+  },
+  "tricentis": {
+    "src": "/partner-logos/tricentis.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Tricentis/Tricentis_Logo_Blue_300x60px.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 15721,
+    "sha256": "e02b4bd220974a687b8047df0cfd55648283beaa44b8b24ed2f8d0f70b4714b8"
+  },
+  "tyk": {
+    "src": "/partner-logos/tyk.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Tyk/tyk-io-193w-x-80h.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 3012,
+    "sha256": "944a12b9e5b07d125cf7a0def9c66f9bd31af79dc46857aac87c6b1e598cfc84"
+  },
+  "uipath": {
+    "src": "/partner-logos/uipath.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/UiPath/uipath-193w-x-80h.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 3269,
+    "sha256": "f833d2967370add225862a8edf6d076f317481d7b1dc13665a162206e4af891b"
+  },
+  "unitree": {
+    "src": "/partner-logos/unitree.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Unitree/unitree-logo.png/jcr:content.png",
+    "contentType": "image/jpeg",
+    "bytes": 19306,
+    "sha256": "9c9c77e799cbd61bbcc5869445fa0ac46a2d1c58c9cba8048bfd1ba4b1fd4f0b"
+  },
+  "veeam": {
+    "src": "/partner-logos/veeam.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Veeam/veeam-193w-x-80h.png/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 12346,
+    "sha256": "bef3aab3d754b175894995b183042b22e8984c346cf0fcc4dbcb27ca65465b08"
+  },
+  "veritas": {
+    "src": "/partner-logos/veritas.svg",
+    "source": "https://www.ncs.co/dam/jcr:3833893a-1884-4960-a730-260284cba245/vertias_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 2738,
+    "sha256": "f720a63cdf4769da2759c0c8243114c26ab6af9508776e91cf56a8f368714cac"
+  },
+  "whatfix": {
+    "src": "/partner-logos/whatfix.png",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Whatfix/whatfix-193w-x-80h.svg/jcr:content.png",
+    "contentType": "image/png",
+    "bytes": 10490,
+    "sha256": "06b39b915ab730950a7d8ab2a4b5c4ede1f71c518e4c28f94eebea6d016cc424"
+  },
+  "workday": {
+    "src": "/partner-logos/workday.jpg",
+    "source": "https://www.ncs.co/.imaging/default/dam/Singapore/partners-app/Images/Logo/Workday/workday-193w-x-80h.jpg/jcr:content.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 3335,
+    "sha256": "d1b5a9bc0534ea4cbe40ea8201e8f5a7ef0de8b96abb89ff2583f989c98ab5c4"
+  },
+  "zscaler": {
+    "src": "/partner-logos/zscaler.svg",
+    "source": "https://www.ncs.co/dam/jcr:015d2f6c-7dfe-4c94-b9f1-a92e81dc5f39/zscaler_w193px_h80px.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 3270,
+    "sha256": "bf66b3bc38b17e5f1fcc378c142886f53b862cc2e5be2fa0adb3ae2133cd4fb0"
+  }
+}

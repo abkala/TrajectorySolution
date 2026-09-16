@@ -1,0 +1,131 @@
+.ncs-reference .ncs-hero {
+  min-height: 0;
+  padding-bottom: 46px;
+  background: radial-gradient(ellipse at 90% 20%, #496b89, transparent 58%), #142b48;
+}
+
+.ncs-reference .ncs-hero--resilience {
+  background: radial-gradient(ellipse at 90% 20%, #3f746e, transparent 58%), #142e40;
+}
+
+.ncs-reference .breadcrumbs { flex-wrap: wrap; line-height: 1.6; }
+.ncs-reference .ncs-hero-layout { display: grid; grid-template-columns: minmax(0, 1.8fr) minmax(210px, .8fr); align-items: center; gap: 50px; margin: 58px 0 38px; }
+.ncs-reference .ncs-hero-content { width: 100%; max-width: 810px; margin: 0; }
+.ncs-reference .ncs-hero h1 { font-size: clamp(36px, 4.15vw, 62px); line-height: 1.1; letter-spacing: -1.8px; overflow-wrap: break-word; }
+.ncs-reference .ncs-hero-content > p:not(.eyebrow) { max-width: 650px; color: #e1edf5; }
+.ncs-reference .ncs-hero .eyebrow { color: #d6e9bb; }
+.ncs-reference .ncs-hero-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 18px 25px; }
+.ncs-reference .ncs-hero-actions .text-link { color: #e2f1fa; border-color: #9ab3c7; }
+.ncs-reference .ncs-hero-actions .text-link:hover { color: #d7efa7; }
+.ncs-reference .ncs-visual { width: 100%; max-width: 330px; justify-self: end; padding: 15px; border: 1px solid #d1e3ef38; border-radius: 50% 50% 4px 50%; background: #d1e3ef08; }
+.ncs-reference .ncs-visual svg { display: block; width: 100%; height: auto; }
+.ncs-reference .ncs-visual p { font-size: 10px; letter-spacing: 1.5px; text-align: center; color: #d3e7f0; margin: 0 0 22px; }
+.ncs-reference .ncs-notice { border: 1px solid #b8cedd; border-left: 4px solid #86b3cb; padding: 22px 26px; }
+.ncs-reference .ncs-hero .ncs-notice { background: #091b3070; border-color: #a6c3d35e; border-left-color: #d7efa7; }
+.ncs-reference .ncs-notice h2 { font-size: 17px; line-height: 1.45; letter-spacing: 0; margin-bottom: 10px; }
+.ncs-reference .ncs-notice p { max-width: 110ch; font-size: 14px; line-height: 1.7; margin-bottom: 12px; }
+.ncs-reference .ncs-notice p:last-child { margin-bottom: 0; }
+.ncs-reference .ncs-notice a { text-decoration: underline; text-underline-offset: 3px; }
+.ncs-reference .ncs-meta { display: flex; flex-wrap: wrap; gap: 7px 25px; margin: 18px 0 12px; padding: 0; list-style: none; font-size: 12px; line-height: 1.6; color: #d0e0ed; }
+.ncs-reference .ncs-notice .ncs-link-note { font-size: 12px; color: #d0e0ed; }
+.ncs-reference .ncs-jump-nav { gap: 14px 30px; flex-wrap: wrap; }
+.ncs-reference .ncs-jump-nav a { min-height: 32px; display: inline-flex; align-items: center; }
+.ncs-reference .ncs-intro { max-width: 86ch; color: #4f6277; font-size: 16px; margin: 26px 0 0; }
+.ncs-reference .ncs-area-index { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; margin: 32px 0 0; padding: 0; list-style: none; }
+.ncs-reference .ncs-area-index a { display: flex; align-items: baseline; gap: 12px; min-height: 56px; height: 100%; padding: 16px; border: 1px solid #dce5ed; font-size: 13px; line-height: 1.55; color: #244e70; background: #f7fafb; }
+.ncs-reference .ncs-area-index a:hover { background: #eaf2f6; border-color: #8cafc4; }
+.ncs-reference .ncs-area-index span { flex-shrink: 0; color: #4e7590; font-size: 11px; }
+.ncs-reference .ncs-service-grid { gap: 26px; }
+.ncs-reference .ncs-service-card { scroll-margin-top: 120px; padding: 30px; }
+.ncs-reference .ncs-service-card h3 { font-size: clamp(23px, 2.3vw, 29px); line-height: 1.2; margin: 14px 0 17px; }
+.ncs-reference .ncs-service-card > p { line-height: 1.75; min-height: 0; }
+.ncs-reference .ncs-service-number { color: #39627c; font-size: 11px; letter-spacing: 1.3px; }
+.ncs-reference .ncs-service-card details { margin-top: 23px; }
+.ncs-reference summary { cursor: pointer; color: #185e80; line-height: 1.55; }
+.ncs-reference summary:focus-visible { outline: 3px solid #8474de; outline-offset: 5px; }
+.ncs-reference .ncs-service-card summary { padding: 18px 0; font-size: 14px; min-height: 52px; }
+.ncs-reference .ncs-capability-list { margin: 0; }
+.ncs-reference .ncs-capability-list > div { border-top: 1px solid #e1e8ee; padding: 16px 0; }
+.ncs-reference .ncs-capability-list dt { font-size: 14px; font-weight: 600; color: #213f5b; line-height: 1.5; margin-bottom: 7px; }
+.ncs-reference .ncs-capability-list dd { margin: 0; font-size: 14px; line-height: 1.75; color: #516477; }
+.ncs-reference .ncs-source-link { margin-top: 20px; font-size: 13px; line-height: 1.6; }
+.ncs-reference .ncs-source-link + .ncs-source-link { margin-left: 18px; }
+.ncs-reference .ncs-context { margin: 20px 0 0; padding: 14px 16px; border-left: 2px solid #94b8cc; background: #f1f6f9; font-size: 13px; line-height: 1.7; color: #4b6175; }
+.ncs-reference .ncs-source-note { padding: 18px 20px; margin: 20px 0 0; border-left: 3px solid #a77e3b; background: #faf5e9; color: #654f2b; font-size: 13px; line-height: 1.75; }
+.ncs-reference .ncs-source-note strong { display: block; margin-bottom: 6px; }
+.ncs-reference .ncs-reading-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 36px; margin-top: 32px; }
+.ncs-reference .ncs-reading-grid > div { min-width: 0; }
+.ncs-reference .ncs-reading-grid h3, .ncs-reference .ncs-subheading { font-size: 24px; line-height: 1.3; letter-spacing: -.5px; margin-bottom: 18px; }
+.ncs-reference .ncs-resource-list { margin: 0; padding-left: 20px; }
+.ncs-reference .ncs-resource-list li { padding-left: 3px; margin-bottom: 14px; font-size: 14px; line-height: 1.7; color: #587083; }
+.ncs-reference .ncs-resource-list a { color: #1b6084; text-decoration: underline; text-decoration-color: #acc5d3; text-underline-offset: 4px; overflow-wrap: anywhere; }
+.ncs-reference .ncs-resource-list a:hover { color: #112f4c; text-decoration-color: currentColor; }
+.ncs-reference .ncs-resource-groups { margin-top: 35px; border-top: 1px solid #d7e2ea; }
+.ncs-reference .ncs-resource-group { border-bottom: 1px solid #d7e2ea; scroll-margin-top: 120px; }
+.ncs-reference .ncs-resource-group > summary { padding: 22px 4px; min-height: 64px; font-size: 16px; font-weight: 600; }
+.ncs-reference .ncs-resource-group > summary > h3 { display: inline; font: inherit; letter-spacing: 0; margin: 0; }
+.ncs-reference .ncs-resource-group > summary span { display: inline-block; color: #536b7d; font-size: 12px; font-weight: 400; margin-left: 8px; }
+.ncs-reference .ncs-resource-group .ncs-reading-grid { margin-top: 0; padding: 5px 22px 18px; }
+.ncs-reference .ncs-resource-group .ncs-reading-grid h4 { color: #405d74; font-size: 14px; margin: 0 0 18px; }
+.ncs-reference .ncs-reading-note { color: #536b7d; font-size: 13px; line-height: 1.75; margin: 26px 0 0; }
+.ncs-reference .ncs-people-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 22px; margin: 32px 0; }
+.ncs-reference .ncs-people-grid > div { border-top: 2px solid #adc6d7; padding-top: 18px; }
+.ncs-reference .ncs-people-grid dt { font-weight: 600; font-size: 16px; line-height: 1.5; margin-bottom: 8px; }
+.ncs-reference .ncs-people-grid dd { margin: 0; font-size: 13px; line-height: 1.75; color: #52687d; }
+.ncs-reference .ncs-people-grid a { color: #1b6084; text-decoration: underline; text-underline-offset: 4px; }
+.ncs-reference .ncs-partner-list { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 22px; margin-top: 30px; }
+.ncs-reference .ncs-partner-list > div { padding: 24px; border: 1px solid #d5e2e9; background: #fff; }
+.ncs-reference .ncs-partner-list h3 { font-size: 20px; line-height: 1.3; margin-bottom: 14px; }
+.ncs-reference .ncs-partner-list p { color: #516477; font-size: 14px; }
+.ncs-reference .ncs-context-list { margin: 0; padding: 0 22px 22px; }
+.ncs-reference .ncs-context-list > div { padding: 15px 0; border-top: 1px solid #e1e8ee; }
+.ncs-reference .ncs-context-list dt { font-size: 14px; font-weight: 600; line-height: 1.5; margin-bottom: 6px; }
+.ncs-reference .ncs-context-list dd { margin: 0; color: #536b7d; font-size: 14px; line-height: 1.75; }
+.ncs-reference .ncs-cross-reference { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 30px; padding: 32px; margin-top: 35px; border: 1px solid #cddfe9; background: #f0f6f9; }
+.ncs-reference .ncs-cross-reference h3 { font-size: 24px; line-height: 1.3; margin-bottom: 12px; }
+.ncs-reference .ncs-cross-reference p { color: #50687d; font-size: 14px; margin-bottom: 0; }
+.ncs-reference .contact-banner h2 { max-width: 760px; }
+.ncs-reference .contact-banner > div > p:not(.eyebrow) { max-width: 660px; }
+.ncs-reference .contact-banner > a { flex-shrink: 0; }
+.ncs-reference .footer-bottom { gap: 15px; line-height: 1.6; }
+
+@media (max-width: 1000px) {
+  .ncs-reference .ncs-hero-layout { gap: 26px; grid-template-columns: minmax(0, 1.7fr) minmax(160px, .7fr); }
+  .ncs-reference .ncs-visual { padding: 8px; }
+  .ncs-reference .ncs-area-index { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .ncs-reference .ncs-service-card { padding: 25px; }
+  .ncs-reference .ncs-partner-list { grid-template-columns: 1fr; gap: 16px; }
+  .ncs-reference .ncs-cross-reference { grid-template-columns: 1fr; }
+  .ncs-reference .ncs-cross-reference > a { justify-self: start; }
+}
+
+@media (max-width: 760px) {
+  .ncs-reference .ncs-hero { padding: 25px 6% 30px; }
+  .ncs-reference .ncs-hero-layout { grid-template-columns: 1fr; margin: 40px 0 30px; }
+  .ncs-reference .ncs-hero h1 { font-size: clamp(33px, 7.6vw, 48px); letter-spacing: -1.2px; }
+  .ncs-reference .ncs-visual { display: none; }
+  .ncs-reference .ncs-notice { padding: 18px; }
+  .ncs-reference .ncs-notice p { font-size: 13px; }
+  .ncs-reference .ncs-service-grid, .ncs-reference .ncs-reading-grid { grid-template-columns: 1fr; gap: 24px; }
+  .ncs-reference .ncs-people-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .ncs-reference .ncs-area-index a { padding: 12px; }
+  .ncs-reference .ncs-resource-group .ncs-reading-grid { padding-inline: 5px; }
+  .ncs-reference .ncs-context-list { padding-inline: 5px; }
+  .ncs-reference .ncs-cross-reference { padding: 23px; }
+  .ncs-reference .ncs-source-link + .ncs-source-link { margin-left: 0; display: table; }
+}
+
+@media (max-width: 480px) {
+  .ncs-reference .ncs-area-index, .ncs-reference .ncs-people-grid { grid-template-columns: 1fr; }
+  .ncs-reference .ncs-service-card { padding: 22px; }
+  .ncs-reference .ncs-resource-group > summary span { margin-left: 0; }
+}
+
+@media print {
+  .ncs-reference .ncs-hero { color: #142b48; background: #fff; }
+  .ncs-reference .ncs-hero .ncs-notice { color: #142b48; background: #fff; border-color: #a9bece; }
+  .ncs-reference .ncs-hero-content > p:not(.eyebrow), .ncs-reference .ncs-hero .eyebrow, .ncs-reference .ncs-meta, .ncs-reference .ncs-notice .ncs-link-note { color: #405d74; }
+  .ncs-reference .ncs-visual, .ncs-reference .ncs-hero-actions, .ncs-reference .ncs-jump-nav { display: none; }
+  .ncs-reference .ncs-hero-layout, .ncs-reference .ncs-service-grid { display: block; }
+  .ncs-reference .ncs-service-card { margin-bottom: 22px; break-inside: avoid; }
+}
