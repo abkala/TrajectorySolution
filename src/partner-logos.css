@@ -1,0 +1,38 @@
+.partner-logo-art {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin: 0;
+  padding: 12px;
+  background: #fff;
+}
+.partner-logo-art img {
+  display: block;
+  width: 193px;
+  max-width: 100%;
+  height: 80px;
+  object-fit: contain;
+}
+.partner-logo-art figcaption {
+  max-width: 230px;
+  color: #536477;
+  font-size: 11px;
+  line-height: 1.5;
+  text-align: center;
+}
+.partner-logo-error {
+  display: block;
+  color: #8d3038;
+  font-size: 12px;
+  line-height: 1.5;
+}
+.partner-website {
+  color: #17658d;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  overflow-wrap: anywhere;
+}
+.partner-website:hover { color: #0b3c59; }
+.partner-website-unavailable { color: #667487; font-size: 12px; }
